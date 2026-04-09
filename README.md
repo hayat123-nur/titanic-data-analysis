@@ -1,11 +1,11 @@
-🚢 Titanic Data Analysis Project
-📌 Overview
+🚢 Titanic Data Analysis Project\n
+📌 Overview\n
 
-This project analyzes the Titanic dataset using Python (Pandas).
-It includes data creation, cleaning, exploration, analysis, and insights.
+This project analyzes the Titanic dataset using Python (Pandas).\n
+It includes data creation, cleaning, exploration, analysis, and insights.\n
 
-📂 Project Structure
-Task_3_Titanic_Analysis.ipynb → Main notebook
+📂 Project Structure\n
+Task_3_Titanic_Analysis.ipynb → Main notebook\n
 dataset-2.csv → Dataset (if included)
 🧩 Part 1: Custom Dataset
 Created a dataset using a Python dictionary
